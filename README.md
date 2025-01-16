@@ -1,5 +1,5 @@
 
-README para Exercici 1 - Òptica "Cul d'Ampolla"
+README para Ejercicio 1 - Òptica "Cul d'Ampolla"
 Descripción
 
 Sistema para gestionar clientes, empleados, ventas y proveedores en una óptica.
@@ -12,7 +12,7 @@ Clientes: Datos personales, fecha de registro y cliente que los recomendó.
 Empleados: Registro de qué empleado realiza cada venta.
 
 
-README para Exercici 2 - Pizzería
+README para Ejercicio2 2 - Pizzería
 Descripción
 
 Sistema para gestionar pedidos online, clientes, productos, tiendas y empleados de una pizzería.
